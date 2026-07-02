@@ -1,0 +1,19 @@
+Player,Role,Age,Batting Style,Bowling Style,Nationality,Experience,Career Runs,Career Wickets,Strike Rate,Economy,Catches,Fitness Status,Salary,Strengths,Weaknesses
+Ruturaj Gaikwad,Batter,29,Right-hand bat,Right-arm offbreak,Indian,68,2380,0,135.5,7.5,40,Fit,18.0,"Anchor Play, Spin Hitting, Powerplay Timing","Left-arm Fast Inswing, Slow Starts"
+Devon Conway,Wicketkeeper-Batter,34,Left-hand bat,Right-arm medium,Overseas,30,1050,0,131.2,0.0,18,Fit,6.0,"Spin Domination, Powerplay Accumulator, Sweep Shots","High Pace Seam, Left-arm Orthodoxy early on"
+Sameer Rizvi,Batter,22,Right-hand bat,Right-arm offbreak,Indian,10,120,0,145.0,8.5,3,Fit,8.4,"Aggressive Spin Hitting, Clearing Long Boundaries","Express Pace Short Ball, Outswingers"
+Shaik Rasheed,Batter,21,Right-hand bat,Right-arm legbreak,Indian,2,15,0,110.0,0.0,1,Fit,0.5,"Solid Technique, Timing, Anchor Capability",Accelerating against high-quality spin
+Ravindra Jadeja,All-rounder,37,Left-hand bat,Left-arm orthodox,Indian,240,2950,160,128.5,7.6,105,Fit,18.0,"Elite Fielding, Accurate Line/Length Spin, Middle-Overs Control","Express Pace Short Ball, Struggling to start fast against spin"
+Shivam Dube,All-rounder,32,Left-hand bat,Right-arm medium,Indian,65,1610,5,141.2,8.9,12,Fit,12.0,"Spin Destroyer, Massive Hit Power, Tall Reach","Express Pace Rib-cage Bouncers, Hard Lengths"
+Rachin Ravindra,All-rounder,26,Left-hand bat,Left-arm orthodox,Overseas,15,450,5,140.0,8.2,8,Rest,4.0,"Powerplay Intent, Lofted Cover Drives, Useful Left-arm Spin","Off-spin Matchup, Outswing outside off stump"
+Mitchell Santner,All-rounder,34,Left-hand bat,Left-arm orthodox,Overseas,25,160,20,125.0,6.9,15,Fit,2.0,"Impeccable Economy, Under-cutting Carrom Spin, Smart Running",Power Hitting range against high-pace bowlers
+Shardul Thakur,All-rounder,34,Right-hand bat,Right-arm fast-medium,Indian,95,320,96,140.0,8.9,23,Rehab,4.0,"Partnership Breaker, Golden Arm, Lower Order Cameos","Leaking Boundary Runs, Consistency of Length"
+Moeen Ali,All-rounder,38,Left-hand bat,Right-arm offbreak,Overseas,67,1100,35,138.0,7.1,21,Fit,8.0,"Destroying Off-spin, Powerplay Bowling, Quick Hands","High Pace Short Ball, Left-arm Orthodox matchups"
+MS Dhoni,Wicketkeeper-Batter,44,Right-hand bat,Right-arm medium,Indian,264,5240,0,137.5,0.0,148,Fit,4.0,"Death Overs Power, Elite Gloves, Tactical Genius, Calmness","Slow Pitch Leg Spin, High Dot Ball % early in innings"
+Matheesha Pathirana,Bowler,23,Right-hand bat,Right-arm fast,Overseas,29,10,45,100.0,7.8,5,Fit,13.0,"Slingy Release, Searing Death Overs Yorks, Hard-to-read Slower ball","Early Control of Swing, Control over Extras"
+Tushar Deshpande,Bowler,30,Right-hand bat,Right-arm fast-medium,Indian,36,30,42,90.0,8.8,9,Fit,5.0,"Wicket-taking Ability, Hard Lengths, Inswing to right handers","Predictable Slower balls, High Economy in Death Overs"
+Deepak Chahar,Bowler,33,Right-hand bat,Right-arm fast-medium,Indian,80,120,72,135.0,7.9,19,Rehab,6.0,"Powerplay Outswing, Early Breakthroughs, Handy Batting","Injury Recovery, Bowling in the Death Overs"
+Maheesh Theekshana,Bowler,25,Right-hand bat,Right-arm offbreak,Overseas,34,15,35,80.0,7.4,6,Fit,5.5,"Mystery Carrom Ball, Powerplay Control, Off-spinner matchup","Ground Fielding, Dropped Catches"
+Mukesh Choudhary,Bowler,27,Left-hand bat,Left-arm fast-medium,Indian,18,5,18,60.0,8.5,3,Fit,1.0,"Left-arm Powerplay Swing, Angling across right-hand batters","Vulnerable at the Death, Injury prone"
+Simarjeet Singh,Bowler,27,Right-hand bat,Right-arm medium-fast,Indian,12,10,10,80.0,8.6,2,Fit,0.8,"Hit-the-deck Bowler, High Release Point",Lack of variety in slow pitches
+Prashant Solanki,Bowler,26,Right-hand bat,Right-arm legbreak,Indian,4,0,5,0.0,8.1,1,Fit,0.5,"Traditional Legbreak Loop, Flighting the ball",Struggles with short boundary dimensions

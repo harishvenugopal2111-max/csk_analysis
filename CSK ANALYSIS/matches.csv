@@ -1,0 +1,151 @@
+match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,win_type,win_margin,player_of_match,team1_score,team1_wickets,team2_score,team2_wickets
+1,2021,2021-04-09,Wankhede (Mumbai),CSK,PBKS,CSK,field,PBKS,wickets,5,Sam Curran,165,3,168,3
+2,2021,2021-04-12,Chepauk (Chennai),CSK,GT,CSK,field,CSK,wickets,6,Maheesh Theekshana,199,7,194,2
+3,2021,2021-04-15,Chinnaswamy (Bengaluru),CSK,GT,GT,bat,CSK,wickets,1,Ruturaj Gaikwad,153,4,149,6
+4,2021,2021-04-18,Chepauk (Chennai),CSK,SRH,SRH,field,CSK,runs,39,Ravindra Jadeja,174,6,135,2
+5,2021,2021-04-21,Chepauk (Chennai),CSK,SRH,SRH,field,CSK,wickets,4,Ruturaj Gaikwad,162,6,159,4
+6,2021,2021-04-24,Chepauk (Chennai),CSK,DC,CSK,bat,DC,wickets,4,Axar Patel,194,8,196,2
+7,2021,2021-04-27,Chepauk (Chennai),CSK,SRH,SRH,bat,SRH,runs,13,Abhishek Sharma,170,4,183,7
+8,2021,2021-04-30,Chepauk (Chennai),CSK,GT,CSK,bat,CSK,wickets,4,Devon Conway,168,7,161,3
+9,2021,2021-05-03,Narendra Modi Stadium (Ahmedabad),CSK,RCB,CSK,field,CSK,wickets,5,Sameer Rizvi,190,4,184,3
+10,2021,2021-05-06,Chepauk (Chennai),CSK,PBKS,PBKS,bat,CSK,wickets,5,Sameer Rizvi,159,4,155,2
+11,2021,2021-05-09,Narendra Modi Stadium (Ahmedabad),CSK,GT,CSK,field,GT,runs,11,Shubman Gill,164,6,175,4
+12,2021,2021-05-12,Sawai Mansingh Stadium (Jaipur),CSK,GT,CSK,bat,GT,runs,17,Mohit Sharma,167,5,184,9
+13,2021,2021-05-15,Rajiv Gandhi Stadium (Hyderabad),CSK,MI,MI,bat,MI,wickets,1,Suryakumar Yadav,194,6,200,4
+14,2021,2021-05-18,Chepauk (Chennai),CSK,PBKS,CSK,field,PBKS,wickets,8,Sam Curran,166,8,168,4
+15,2021,2021-05-21,Sawai Mansingh Stadium (Jaipur),CSK,KKR,KKR,field,KKR,runs,34,Phil Salt,137,4,171,3
+16,2021,2021-05-24,Chepauk (Chennai),CSK,DC,CSK,bat,CSK,runs,21,Sameer Rizvi,185,9,164,4
+17,2021,2021-05-27,Chepauk (Chennai),CSK,PBKS,CSK,field,CSK,wickets,7,Tushar Deshpande,143,7,138,8
+18,2021,2021-05-30,Chepauk (Chennai),CSK,PBKS,PBKS,bat,CSK,wickets,2,Shardul Thakur,175,6,170,6
+19,2021,2021-06-02,Rajiv Gandhi Stadium (Hyderabad),CSK,RR,RR,field,CSK,runs,53,Shardul Thakur,175,3,122,3
+20,2021,2021-06-05,Chepauk (Chennai),CSK,RR,CSK,field,CSK,runs,9,Mitchell Santner,155,9,146,5
+21,2021,2021-06-08,Arun Jaitley Stadium (Delhi),CSK,PBKS,CSK,field,CSK,wickets,4,Mitchell Santner,187,5,183,2
+22,2021,2021-06-11,Eden Gardens (Kolkata),CSK,MI,MI,bat,MI,wickets,2,Jasprit Bumrah,187,2,190,6
+23,2021,2021-06-14,Chepauk (Chennai),CSK,PBKS,CSK,field,CSK,runs,28,Shardul Thakur,171,7,143,7
+24,2021,2021-06-17,Ekana Stadium (Lucknow),CSK,LSG,CSK,field,CSK,runs,6,Mukesh Choudhary,176,7,170,8
+25,2021,2021-06-20,Arun Jaitley Stadium (Delhi),CSK,RR,RR,field,RR,runs,16,Yashasvi Jaiswal,168,4,184,7
+26,2021,2021-06-23,Ekana Stadium (Lucknow),CSK,MI,CSK,field,MI,runs,22,Hardik Pandya,133,8,155,6
+27,2021,2021-06-26,Chepauk (Chennai),CSK,DC,CSK,field,CSK,wickets,4,Deepak Chahar,188,7,186,7
+28,2021,2021-06-29,Chepauk (Chennai),CSK,MI,MI,field,MI,wickets,3,Rohit Sharma,183,9,186,3
+29,2021,2021-07-02,Chinnaswamy (Bengaluru),CSK,PBKS,PBKS,field,CSK,wickets,3,Rachin Ravindra,180,5,176,8
+30,2021,2021-07-05,Chepauk (Chennai),CSK,MI,CSK,field,CSK,wickets,6,Tushar Deshpande,178,2,176,4
+31,2022,2022-04-09,Chinnaswamy (Bengaluru),CSK,PBKS,CSK,bat,CSK,wickets,2,Ravindra Jadeja,208,5,202,5
+32,2022,2022-04-12,Arun Jaitley Stadium (Delhi),CSK,MI,MI,field,CSK,runs,23,Tushar Deshpande,155,2,132,4
+33,2022,2022-04-15,Chepauk (Chennai),CSK,PBKS,PBKS,field,CSK,runs,35,Shardul Thakur,159,7,124,5
+34,2022,2022-04-18,Sawai Mansingh Stadium (Jaipur),CSK,DC,DC,field,CSK,wickets,2,Mitchell Santner,186,6,180,3
+35,2022,2022-04-21,Eden Gardens (Kolkata),CSK,DC,CSK,field,CSK,wickets,3,Matheesha Pathirana,170,7,164,8
+36,2022,2022-04-24,Chinnaswamy (Bengaluru),CSK,PBKS,CSK,bat,CSK,wickets,2,Deepak Chahar,196,6,190,6
+37,2022,2022-04-27,Chinnaswamy (Bengaluru),CSK,LSG,LSG,field,CSK,wickets,5,Ravindra Jadeja,204,5,197,4
+38,2022,2022-04-30,Chepauk (Chennai),CSK,SRH,CSK,field,CSK,wickets,5,Shardul Thakur,166,5,161,7
+39,2022,2022-05-03,Chepauk (Chennai),CSK,GT,GT,field,CSK,wickets,4,Matheesha Pathirana,145,2,138,7
+40,2022,2022-05-06,Chepauk (Chennai),CSK,RCB,RCB,field,RCB,runs,36,Rajat Patidar,139,3,175,3
+41,2022,2022-05-09,Chepauk (Chennai),CSK,LSG,LSG,field,CSK,runs,12,Tushar Deshpande,197,4,185,6
+42,2022,2022-05-12,Ekana Stadium (Lucknow),CSK,MI,CSK,bat,CSK,wickets,6,Ravindra Jadeja,158,7,152,6
+43,2022,2022-05-15,Chinnaswamy (Bengaluru),CSK,SRH,CSK,field,CSK,wickets,2,Shivam Dube,221,2,216,9
+44,2022,2022-05-18,Sawai Mansingh Stadium (Jaipur),CSK,RR,RR,bat,CSK,wickets,4,Shardul Thakur,200,3,197,3
+45,2022,2022-05-21,Chepauk (Chennai),CSK,RCB,RCB,bat,RCB,wickets,5,Glenn Maxwell,179,2,181,5
+46,2022,2022-05-24,Chepauk (Chennai),CSK,KKR,CSK,field,CSK,runs,3,Mitchell Santner,168,8,165,3
+47,2022,2022-05-27,Chepauk (Chennai),CSK,MI,CSK,bat,MI,runs,15,Rohit Sharma,189,8,204,8
+48,2022,2022-05-30,Chepauk (Chennai),CSK,KKR,CSK,bat,CSK,runs,36,Mukesh Choudhary,166,8,130,2
+49,2022,2022-06-02,Narendra Modi Stadium (Ahmedabad),CSK,PBKS,PBKS,field,PBKS,wickets,3,Liam Livingstone,179,6,185,2
+50,2022,2022-06-05,Arun Jaitley Stadium (Delhi),CSK,SRH,SRH,field,CSK,wickets,3,Ravindra Jadeja,178,2,176,2
+51,2022,2022-06-08,Chepauk (Chennai),CSK,PBKS,PBKS,bat,CSK,wickets,3,Ravindra Jadeja,153,3,150,8
+52,2022,2022-06-11,Eden Gardens (Kolkata),CSK,DC,CSK,field,CSK,runs,49,MS Dhoni,126,6,77,5
+53,2022,2022-06-14,Sawai Mansingh Stadium (Jaipur),CSK,LSG,LSG,bat,LSG,wickets,4,Ravi Bishnoi,143,4,147,6
+54,2022,2022-06-17,Chepauk (Chennai),CSK,DC,CSK,field,CSK,runs,18,Shardul Thakur,168,8,150,6
+55,2022,2022-06-20,Wankhede (Mumbai),CSK,DC,DC,bat,CSK,wickets,5,Mitchell Santner,176,7,169,7
+56,2022,2022-06-23,Chepauk (Chennai),CSK,KKR,KKR,field,CSK,runs,1,Devon Conway,184,2,183,7
+57,2022,2022-06-26,Eden Gardens (Kolkata),CSK,RR,RR,field,CSK,runs,35,Tushar Deshpande,188,7,153,9
+58,2022,2022-06-29,Chepauk (Chennai),CSK,LSG,CSK,field,CSK,runs,47,Shivam Dube,183,7,136,5
+59,2022,2022-07-02,Chepauk (Chennai),CSK,LSG,CSK,bat,LSG,runs,29,Marcus Stoinis,134,6,163,4
+60,2022,2022-07-05,Eden Gardens (Kolkata),CSK,LSG,CSK,bat,LSG,runs,11,KL Rahul,172,4,183,3
+61,2023,2023-04-09,Eden Gardens (Kolkata),CSK,MI,MI,field,MI,wickets,2,Hardik Pandya,132,4,135,6
+62,2023,2023-04-12,Chepauk (Chennai),CSK,RR,RR,bat,CSK,wickets,3,Mukesh Choudhary,130,3,128,8
+63,2023,2023-04-15,Rajiv Gandhi Stadium (Hyderabad),CSK,SRH,CSK,field,CSK,wickets,6,Sameer Rizvi,177,4,174,4
+64,2023,2023-04-18,Chepauk (Chennai),CSK,DC,DC,field,DC,runs,16,David Warner,131,4,147,7
+65,2023,2023-04-21,Ekana Stadium (Lucknow),CSK,KKR,CSK,bat,CSK,wickets,4,Deepak Chahar,178,2,173,3
+66,2023,2023-04-24,Chinnaswamy (Bengaluru),CSK,KKR,KKR,field,KKR,runs,27,Phil Salt,142,5,169,9
+67,2023,2023-04-27,Chepauk (Chennai),CSK,RR,RR,bat,CSK,wickets,1,Tushar Deshpande,196,5,191,7
+68,2023,2023-04-30,Rajiv Gandhi Stadium (Hyderabad),CSK,GT,CSK,field,GT,runs,30,David Miller,152,7,182,7
+69,2023,2023-05-03,Chepauk (Chennai),CSK,DC,CSK,field,CSK,runs,10,Devon Conway,189,8,179,6
+70,2023,2023-05-06,Chepauk (Chennai),CSK,GT,GT,field,CSK,wickets,2,Maheesh Theekshana,172,2,170,6
+71,2023,2023-05-09,Wankhede (Mumbai),CSK,GT,GT,bat,GT,wickets,4,Mohit Sharma,178,8,182,5
+72,2023,2023-05-12,Chinnaswamy (Bengaluru),CSK,LSG,LSG,bat,CSK,runs,19,Mukesh Choudhary,193,4,174,2
+73,2023,2023-05-15,Narendra Modi Stadium (Ahmedabad),CSK,MI,MI,bat,MI,wickets,5,Jasprit Bumrah,208,5,211,4
+74,2023,2023-05-18,Chinnaswamy (Bengaluru),CSK,LSG,CSK,bat,CSK,wickets,4,Devon Conway,218,7,214,8
+75,2023,2023-05-21,Eden Gardens (Kolkata),CSK,PBKS,PBKS,bat,CSK,wickets,6,Mukesh Choudhary,165,4,161,8
+76,2023,2023-05-24,Chepauk (Chennai),CSK,SRH,SRH,field,SRH,runs,50,Bhuvneshwar Kumar,117,4,167,9
+77,2023,2023-05-27,Chepauk (Chennai),CSK,SRH,SRH,bat,SRH,runs,34,Travis Head,144,8,178,3
+78,2023,2023-05-30,Chepauk (Chennai),CSK,RCB,CSK,field,CSK,runs,24,Devon Conway,182,2,158,9
+79,2023,2023-06-02,Chepauk (Chennai),CSK,RCB,CSK,field,RCB,runs,49,Virat Kohli,92,5,141,2
+80,2023,2023-06-05,Chinnaswamy (Bengaluru),CSK,MI,MI,field,MI,wickets,7,Rohit Sharma,201,4,208,7
+81,2023,2023-06-08,Chepauk (Chennai),CSK,GT,CSK,bat,CSK,runs,45,Ruturaj Gaikwad,177,6,132,3
+82,2023,2023-06-11,Rajiv Gandhi Stadium (Hyderabad),CSK,GT,GT,field,CSK,runs,17,MS Dhoni,160,3,143,9
+83,2023,2023-06-14,Rajiv Gandhi Stadium (Hyderabad),CSK,SRH,CSK,bat,CSK,wickets,5,Shivam Dube,169,5,162,8
+84,2023,2023-06-17,Chepauk (Chennai),CSK,PBKS,CSK,bat,CSK,wickets,6,Shardul Thakur,186,6,181,4
+85,2023,2023-06-20,Chepauk (Chennai),CSK,SRH,CSK,field,CSK,runs,31,Ravindra Jadeja,188,7,157,9
+86,2023,2023-06-23,Eden Gardens (Kolkata),CSK,RCB,RCB,bat,CSK,wickets,4,Ruturaj Gaikwad,192,5,186,7
+87,2023,2023-06-26,Rajiv Gandhi Stadium (Hyderabad),CSK,PBKS,PBKS,bat,CSK,runs,48,Sameer Rizvi,194,4,146,2
+88,2023,2023-06-29,Narendra Modi Stadium (Ahmedabad),CSK,PBKS,PBKS,field,PBKS,runs,25,Jonny Bairstow,144,8,169,4
+89,2023,2023-07-02,Rajiv Gandhi Stadium (Hyderabad),CSK,MI,CSK,bat,MI,runs,47,Hardik Pandya,119,5,166,4
+90,2023,2023-07-05,Chepauk (Chennai),CSK,GT,GT,bat,CSK,runs,20,Tushar Deshpande,153,2,133,8
+91,2024,2024-04-08,Chepauk (Chennai),CSK,GT,GT,field,CSK,wickets,5,Devon Conway,180,7,178,4
+92,2024,2024-04-11,Chepauk (Chennai),CSK,LSG,LSG,field,CSK,wickets,8,Sameer Rizvi,203,4,198,8
+93,2024,2024-04-14,Eden Gardens (Kolkata),CSK,DC,DC,field,CSK,runs,14,Devon Conway,193,5,179,7
+94,2024,2024-04-17,Ekana Stadium (Lucknow),CSK,KKR,KKR,field,CSK,wickets,7,Rachin Ravindra,157,7,155,4
+95,2024,2024-04-20,Narendra Modi Stadium (Ahmedabad),CSK,PBKS,PBKS,bat,CSK,runs,47,Shardul Thakur,146,6,99,8
+96,2024,2024-04-23,Chepauk (Chennai),CSK,SRH,CSK,bat,CSK,wickets,2,Matheesha Pathirana,150,2,148,4
+97,2024,2024-04-26,Chinnaswamy (Bengaluru),CSK,LSG,LSG,bat,LSG,wickets,5,Nicholas Pooran,193,9,200,5
+98,2024,2024-04-29,Chepauk (Chennai),CSK,LSG,CSK,field,CSK,wickets,3,Ruturaj Gaikwad,153,6,150,9
+99,2024,2024-05-02,Chepauk (Chennai),CSK,KKR,KKR,bat,KKR,runs,17,Mitchell Starc,141,8,158,8
+100,2024,2024-05-05,Chepauk (Chennai),CSK,DC,DC,field,CSK,runs,37,Matheesha Pathirana,199,6,162,9
+101,2024,2024-05-08,Chepauk (Chennai),CSK,KKR,CSK,field,CSK,runs,35,Shivam Dube,156,2,121,8
+102,2024,2024-05-11,Narendra Modi Stadium (Ahmedabad),CSK,RR,CSK,field,RR,runs,41,Yashasvi Jaiswal,134,2,175,3
+103,2024,2024-05-14,Chepauk (Chennai),CSK,SRH,CSK,bat,CSK,wickets,3,Deepak Chahar,196,6,189,4
+104,2024,2024-05-17,Narendra Modi Stadium (Ahmedabad),CSK,PBKS,CSK,field,CSK,wickets,7,Shardul Thakur,147,3,140,9
+105,2024,2024-05-20,Chepauk (Chennai),CSK,KKR,KKR,bat,CSK,runs,23,Ruturaj Gaikwad,146,6,123,2
+106,2024,2024-05-23,Sawai Mansingh Stadium (Jaipur),CSK,SRH,SRH,field,CSK,wickets,7,Shardul Thakur,218,3,213,6
+107,2024,2024-05-26,Arun Jaitley Stadium (Delhi),CSK,KKR,KKR,bat,CSK,wickets,8,Mukesh Choudhary,160,6,157,7
+108,2024,2024-05-29,Chepauk (Chennai),CSK,DC,DC,field,DC,wickets,4,Rishabh Pant,140,9,147,2
+109,2024,2024-06-01,Ekana Stadium (Lucknow),CSK,MI,CSK,field,CSK,runs,22,Ravindra Jadeja,124,7,102,7
+110,2024,2024-06-04,Arun Jaitley Stadium (Delhi),CSK,GT,GT,bat,CSK,runs,4,Deepak Chahar,180,2,176,2
+111,2024,2024-06-07,Chepauk (Chennai),CSK,DC,DC,field,CSK,wickets,5,Deepak Chahar,210,3,203,6
+112,2024,2024-06-10,Chepauk (Chennai),CSK,MI,MI,bat,CSK,wickets,5,Tushar Deshpande,185,4,180,5
+113,2024,2024-06-13,Chepauk (Chennai),CSK,RCB,CSK,bat,CSK,wickets,3,Mitchell Santner,189,2,186,6
+114,2024,2024-06-16,Sawai Mansingh Stadium (Jaipur),CSK,SRH,CSK,bat,CSK,wickets,8,Ravindra Jadeja,165,7,162,5
+115,2024,2024-06-19,Wankhede (Mumbai),CSK,DC,DC,field,CSK,runs,42,Shivam Dube,143,6,101,6
+116,2024,2024-06-22,Arun Jaitley Stadium (Delhi),CSK,SRH,SRH,bat,CSK,runs,20,Maheesh Theekshana,133,6,113,6
+117,2024,2024-06-25,Sawai Mansingh Stadium (Jaipur),CSK,SRH,SRH,bat,SRH,wickets,4,Travis Head,209,7,212,5
+118,2024,2024-06-28,Sawai Mansingh Stadium (Jaipur),CSK,SRH,SRH,field,SRH,wickets,5,Travis Head,177,4,184,5
+119,2024,2024-07-01,Chepauk (Chennai),CSK,SRH,CSK,field,SRH,wickets,4,Abhishek Sharma,134,8,137,6
+120,2024,2024-07-04,Chepauk (Chennai),CSK,PBKS,CSK,field,PBKS,wickets,4,Liam Livingstone,168,8,170,2
+121,2025,2025-04-08,Eden Gardens (Kolkata),CSK,RR,CSK,bat,RR,runs,19,Yashasvi Jaiswal,151,3,170,3
+122,2025,2025-04-11,Narendra Modi Stadium (Ahmedabad),CSK,MI,MI,field,CSK,wickets,7,Mitchell Santner,169,5,165,6
+123,2025,2025-04-14,Chepauk (Chennai),CSK,PBKS,CSK,field,PBKS,wickets,5,Liam Livingstone,160,3,163,6
+124,2025,2025-04-17,Chinnaswamy (Bengaluru),CSK,RCB,RCB,field,RCB,wickets,4,Glenn Maxwell,199,7,205,5
+125,2025,2025-04-20,Ekana Stadium (Lucknow),CSK,MI,MI,field,CSK,runs,25,MS Dhoni,152,4,127,2
+126,2025,2025-04-23,Chinnaswamy (Bengaluru),CSK,SRH,SRH,bat,SRH,runs,48,Pat Cummins,148,2,196,5
+127,2025,2025-04-26,Chepauk (Chennai),CSK,RR,RR,field,CSK,wickets,3,Devon Conway,171,2,169,4
+128,2025,2025-04-29,Rajiv Gandhi Stadium (Hyderabad),CSK,MI,MI,field,CSK,wickets,6,Devon Conway,198,2,194,3
+129,2025,2025-05-02,Rajiv Gandhi Stadium (Hyderabad),CSK,GT,CSK,bat,CSK,wickets,4,Rachin Ravindra,167,4,161,7
+130,2025,2025-05-05,Rajiv Gandhi Stadium (Hyderabad),CSK,RR,CSK,field,RR,wickets,4,Yashasvi Jaiswal,180,6,184,6
+131,2025,2025-05-08,Eden Gardens (Kolkata),CSK,KKR,KKR,bat,CSK,runs,37,Sameer Rizvi,192,5,155,7
+132,2025,2025-05-11,Chinnaswamy (Bengaluru),CSK,MI,MI,bat,MI,wickets,7,Suryakumar Yadav,221,3,228,2
+133,2025,2025-05-14,Chepauk (Chennai),CSK,DC,CSK,field,CSK,runs,17,Ravindra Jadeja,172,4,155,3
+134,2025,2025-05-17,Ekana Stadium (Lucknow),CSK,GT,GT,bat,CSK,wickets,5,Mukesh Choudhary,146,2,142,6
+135,2025,2025-05-20,Sawai Mansingh Stadium (Jaipur),CSK,RR,CSK,field,RR,wickets,6,Yuzvendra Chahal,133,2,139,4
+136,2025,2025-05-23,Wankhede (Mumbai),CSK,KKR,CSK,bat,CSK,runs,32,Deepak Chahar,150,5,118,6
+137,2025,2025-05-26,Chepauk (Chennai),CSK,SRH,CSK,field,SRH,runs,41,Abhishek Sharma,124,8,165,9
+138,2025,2025-05-29,Chepauk (Chennai),CSK,KKR,KKR,bat,CSK,wickets,7,MS Dhoni,135,5,132,8
+139,2025,2025-06-01,Chepauk (Chennai),CSK,KKR,CSK,field,KKR,runs,16,Mitchell Starc,172,4,188,3
+140,2025,2025-06-04,Rajiv Gandhi Stadium (Hyderabad),CSK,DC,CSK,field,CSK,runs,11,Mukesh Choudhary,185,7,174,5
+141,2025,2025-06-07,Arun Jaitley Stadium (Delhi),CSK,DC,DC,bat,DC,runs,33,Kuldeep Yadav,165,7,198,9
+142,2025,2025-06-10,Arun Jaitley Stadium (Delhi),CSK,RCB,RCB,field,CSK,runs,1,Devon Conway,170,2,169,5
+143,2025,2025-06-13,Chepauk (Chennai),CSK,DC,CSK,bat,CSK,runs,37,Maheesh Theekshana,163,8,126,3
+144,2025,2025-06-16,Chepauk (Chennai),CSK,DC,CSK,field,DC,runs,29,Rishabh Pant,181,6,210,8
+145,2025,2025-06-19,Ekana Stadium (Lucknow),CSK,LSG,LSG,field,LSG,wickets,2,Ravi Bishnoi,139,6,142,5
+146,2025,2025-06-22,Eden Gardens (Kolkata),CSK,MI,MI,field,MI,runs,41,Ishan Kishan,183,5,224,7
+147,2025,2025-06-25,Sawai Mansingh Stadium (Jaipur),CSK,PBKS,CSK,bat,PBKS,runs,14,Jonny Bairstow,179,8,193,4
+148,2025,2025-06-28,Narendra Modi Stadium (Ahmedabad),CSK,SRH,CSK,bat,SRH,runs,39,Pat Cummins,136,5,175,6
+149,2025,2025-07-01,Arun Jaitley Stadium (Delhi),CSK,GT,CSK,field,CSK,runs,21,Deepak Chahar,173,6,152,5
+150,2025,2025-07-04,Narendra Modi Stadium (Ahmedabad),CSK,MI,CSK,bat,CSK,wickets,4,Ruturaj Gaikwad,228,4,222,6
